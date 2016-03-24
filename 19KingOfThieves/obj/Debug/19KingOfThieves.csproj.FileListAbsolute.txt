@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\19KingOfThieves\bin\Debug\19KingOfThieves.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\19KingOfThieves\bin\Debug\19KingOfThieves.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\19KingOfThieves\bin\Debug\19KingOfThieves.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\19KingOfThieves\obj\Debug\19KingOfThieves.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\19KingOfThieves\obj\Debug\19KingOfThieves.pdb

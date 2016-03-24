@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\18ChessboardGame\bin\Debug\18ChessboardGame.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\18ChessboardGame\bin\Debug\18ChessboardGame.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\18ChessboardGame\bin\Debug\18ChessboardGame.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\18ChessboardGame\obj\Debug\18ChessboardGame.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\18ChessboardGame\obj\Debug\18ChessboardGame.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\18ChessboardGame\obj\Debug\18ChessboardGame.pdb

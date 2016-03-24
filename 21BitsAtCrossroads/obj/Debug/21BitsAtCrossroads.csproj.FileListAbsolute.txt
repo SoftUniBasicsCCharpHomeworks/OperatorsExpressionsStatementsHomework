@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\21BitsAtCrossroads\bin\Debug\21BitsAtCrossroads.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\21BitsAtCrossroads\bin\Debug\21BitsAtCrossroads.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\21BitsAtCrossroads\bin\Debug\21BitsAtCrossroads.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\21BitsAtCrossroads\obj\Debug\21BitsAtCrossroads.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\21BitsAtCrossroads\obj\Debug\21BitsAtCrossroads.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\21BitsAtCrossroads\obj\Debug\21BitsAtCrossroads.pdb

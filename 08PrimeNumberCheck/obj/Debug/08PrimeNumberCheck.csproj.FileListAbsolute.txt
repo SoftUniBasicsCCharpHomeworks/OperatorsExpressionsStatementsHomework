@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb

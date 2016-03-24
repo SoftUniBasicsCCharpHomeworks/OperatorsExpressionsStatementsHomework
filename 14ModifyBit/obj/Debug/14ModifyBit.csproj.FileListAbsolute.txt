@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\14ModifyBit\bin\Debug\14ModifyBit.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\14ModifyBit\bin\Debug\14ModifyBit.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\14ModifyBit\bin\Debug\14ModifyBit.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\14ModifyBit\obj\Debug\14ModifyBit.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\14ModifyBit\obj\Debug\14ModifyBit.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\14ModifyBit\obj\Debug\14ModifyBit.pdb

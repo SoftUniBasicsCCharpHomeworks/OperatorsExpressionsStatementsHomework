@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\20DecryptTheMessages\bin\Debug\20DecryptTheMessages.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\20DecryptTheMessages\bin\Debug\20DecryptTheMessages.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\20DecryptTheMessages\bin\Debug\20DecryptTheMessages.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\20DecryptTheMessages\obj\Debug\20DecryptTheMessages.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\20DecryptTheMessages\obj\Debug\20DecryptTheMessages.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\20DecryptTheMessages\obj\Debug\20DecryptTheMessages.pdb

@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

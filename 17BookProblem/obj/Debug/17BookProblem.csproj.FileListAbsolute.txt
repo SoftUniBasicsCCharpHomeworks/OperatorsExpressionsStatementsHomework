@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\17BookProblem\bin\Debug\17BookProblem.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\17BookProblem\obj\Debug\17BookProblem.pdb

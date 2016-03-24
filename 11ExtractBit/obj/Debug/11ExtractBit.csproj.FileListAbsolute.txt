@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\11ExtractBit\bin\Debug\11ExtractBit.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\11ExtractBit\bin\Debug\11ExtractBit.exe
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\11ExtractBit\bin\Debug\11ExtractBit.pdb
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\11ExtractBit\obj\Debug\11ExtractBit.exe
+c:\users\pc\documents\visual studio 2015\Projects\OperatorsExpressionsStatementsHomework\11ExtractBit\obj\Debug\11ExtractBit.pdb

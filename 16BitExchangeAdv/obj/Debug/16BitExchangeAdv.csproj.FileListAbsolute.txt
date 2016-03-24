@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\16BitExchangeAdv\bin\Debug\16BitExchangeAdv.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\16BitExchangeAdv\bin\Debug\16BitExchangeAdv.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\16BitExchangeAdv\bin\Debug\16BitExchangeAdv.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\16BitExchangeAdv\obj\Debug\16BitExchangeAdv.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\16BitExchangeAdv\obj\Debug\16BitExchangeAdv.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\OperatorsExpressionsStatementsHomework\16BitExchangeAdv\obj\Debug\16BitExchangeAdv.pdb
